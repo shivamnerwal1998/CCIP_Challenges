@@ -14,5 +14,5 @@ public class Solution {
         str2.toLowerCase();
     System.out.println(str2);
         
-    }
+     }
 }
